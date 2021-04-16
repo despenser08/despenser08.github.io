@@ -1,3 +1,3 @@
 ## despenser08
 
-Nothing here; I want to make a website
+I want to make a cool website but I'm too lazy to learn HTML & CSS
